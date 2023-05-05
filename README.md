@@ -1,43 +1,25 @@
-### **Practice Daily on iCodeThis.com** 👇
+# 🛠️ Develop Apps with nextpy
+> [!NOTE]
+>If you need assistance or encounter any bugs, our AI assistant is ready to help on our [Discord](https://discord.com/invite/JWExnD23Pp). Additionally, the nextpy community and team are always available to support you. Post is in ❔help channel.
 
-[![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
+![image](https://github.com/dot-agent/app-ideas/assets/25473195/74b1d355-c8d6-43d8-baff-10fb794b5bb4)
 
-# :ledger: App Ideas Collection
 
-Have you ever wanted to build something but you had no idea what to do? Just as
-authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
+- **Repository**: Check it out at https://github.com/dot-agent/nextpy/ 🌍
+- **Documentation**: Dive into the [nextpy Documentation](https://github.com/dot-agent/nextpy/tree/main/docs) for details 📚
 
-These applications are:
+🐍✨ Creating your first app with nextpy? It's easy and fast! Even with basic Python knowledge, you can have an app up and running in just ⚡[20 minutes](https://github.com/dot-agent/nextpy/blob/main/docs/get_started/01_nextpy_app_in_20_mins.md)
 
--   great for improving your coding skills :muscle:;
--   great for experimenting with new technologies 🆕;
--   great for adding to your portfolio to impress your next employer/client :file_folder:;
--   great for using as examples in tutorials (articles or videos) :page_with_curl:;
--   easy to complete and also easily extendable with new features :ok_hand:;
 
-This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
+> [!IMPORTANT]
+> Utilize the Next.py library as the foundation for your app development. This will allow us to assess your proficiency in rapidly adapting to new technologies.
+> # Be an Open Source Champion🏆:
+> ⭐ **Help us spread the love**: Please star the [nextpy](https://github.com/dot-agent/nextpy/) repo. Spread nextpy love in your communities. 🌐❤️ 
+> 🤗 **Contribute to nextpy**: Take an active role in its evolution. Your input matters! 🚀
 
-Each project has the following **features**:
+# **Choose Your Idea & Level**
+Feel free to choose a project that you feel comfotable with.  Once you’re done, make a public repo on GitHub and send us the link at hiring@dotagent.ai. 🚀📧 Don’t forget to share your awesome work at the 🦄project-showcase channel on our discord.
 
-1. A clear and descriptive objective;
-2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
-3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
-4. All the resources and links to help you find what you need to complete the project
-
-Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
-
-## Projects
-
-Projects are divided into three tiers based on the knowledge and experience
-required to complete them.
-
-| Tier | Developer Profile                                                                                                                                                |
-| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
-
-🌟 - New Project
 
 ### Tier-1: Beginner Projects
 
@@ -142,38 +124,226 @@ required to complete them.
 | [Spell-It App](./Projects/3-Advanced/SpellIt-App.md)                          | A twist on the classic Speak N Spell game                           | 3-Advanced |
 | [Survey App](./Projects/3-Advanced/Survey-App.md)                             | Define, conduct, and view a survey                                  | 3-Advanced |
 
-## Plans for the future
+![-----------------------------------------------------](https://res.cloudinary.com/dzznkbdrb/image/upload/v1694798498/divider_1_rej288.gif)
 
-We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
+## 💡 Nextpy Key Features
 
-We are also planning to create a website where you can easily browse through all of the projects.
+#### Simplifying App Development:🧩
+- **🐍 Unleash Python's Full Potential** - Eliminate complexities and build everything—frontend and backend—in Python, seamlessly integrating any Python library.
+- **🎨 Rich UI Library** - Over 100 fully customizable built-in components for rapid UI development.
+- **⚛️ Tap into React's Power with Pythonic Wrappers** - Harness the vast React ecosystem directly within Python, utilizing any React library **_without JavaScript knowledge._**
+- **🚀 Built-in Performance Optimizations** - Deliver exceptional user experiences with automatic image, font, and script optimizations for lightning-fast loading speeds and responsiveness. See the difference for yourself at [nextpy.org](https://nextpy.org).
 
-## Contribution
+#### Better AI Generations: ‍🤖
 
-Any contributions are highly appreciated. :pray: You can contribute in two ways:
+- **🧠 More Effective Than Chaining or Prompt Engineering** - Next.py aligns with LLM processing patterns, enabling precise output control and optimal model utilization.
+- **💡 Optimized for Code Generation** - Regardless of the LLMs, prompts, or fine-tuning used, the underlying app framework significantly impacts the efficiency of code generation. Next.py's architecture is specifically engineered to maximize efficiency.
+- **💾 Session State with LLM** - Efficiently maintain state with LLMs, leveraging KV caches to convert multiple output tokens into prompt token batches. This approach reduces redundant generations, accelerating the handling of lengthy and intricate prompts. **_(only for open-source models)_**
+- **🧪 Detect Syntax Errors**: Test LLM-generated code, identifying and correcting LLM hallucinations, invalid Nextpy methods, and automatically generating prompts for seamless fixes.
 
-1. create an issue and tell us your idea :bulb:. Make sure that you use the **new idea** label in this case;
-2. fork the project and submit a PR with your new idea. Before doing that, please make sure that you read and follow the [Contribution Guide](./CONTRIBUTING.md);
+#### Developer-First: ❤️
 
-### Examples
+- **📘 Transferable Knowledge** - Learning Next.py instills framework-agnostic fundamentals, enhancing your app development expertise and enabling you to excel across any frameworks.
+- **🛠️ Extensible** - If you know how to do something in Python or plain English, you can integrate it with nextpy.
 
-You can also add your own examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built! 👍
+![-----------------------------------------------------](https://res.cloudinary.com/dzznkbdrb/image/upload/v1694798498/divider_1_rej288.gif)
 
-## Spread the word!
+## 🚀 Quick Start (2 mins)
 
-If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
+**1. Installing Nextpy**
 
-Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
+Open your terminal and prepare for an adventure of a lifetime!
 
-### Main Contributors 🙂🙂
+```bash
+pip install nextpy
+```
 
--   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
--   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
+**(Remember, Python 3.7 or later is required.)**
 
-## 100Days100Projects 🚀
+**2. Initializing Your App**
 
-As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas of smaller projects. Enjoy! 😄
+Navigate to the desired directory for your project in the terminal. Use the `nextpy init` command to initialize a template app in your new directory.
 
-## Stars history
+```bash
+nextpy init
+```
+
+**3. Choose your template:**
+
+For now, just press enter to automatically default to the blank template.
+```md
+    Blank Template: A simple single page template
+    Base Template: A multi-page app with a sidebar
+```
+
+**4. Running the App**
+
+In the same directory where you previously ran nextpy init, enter the following command:
+
+```bash
+nextpy run
+```
+
+**5. View the App:**
+
+Check out your app by visiting [http://localhost:3000](http://localhost:3000)
+
+> [!NOTE]
+> Your application is now fully functional. To view the frontend, navigate to `localhost:3000`. The backend server is accessible at `localhost:8000`.
+> While it's unlikely you'll ever directly interact with it, the backend API documentation can be found at `localhost:8000/docs`, and the openapi.json file is located at `localhost:8000/openapi.json`.
+
+
+## 🎨 Start with a template!
+
+We speedup your development with a [ever growing list of community templates](https://github.com/dot-agent/nextpy/tree/main/app-examples). Some examples:
+
+<table border="0">
+  <tr>
+    <td>
+      <a target="_blank" href="https://nextpy.org/">
+        <img src="https://res.cloudinary.com/doojikdqd/image/upload/v1703429508/github_nextpy/glide_datagrid_2x_fdxoyy.png" style="max-height:150px; width:auto; display:block;">
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://nextpy.org/">
+        <img src="https://res.cloudinary.com/doojikdqd/image/upload/v1703429508/github_nextpy/portfolio_2x_y4lzet.png" style="max-height:150px; width:auto; display:block;">
+      </a>
+    </td>
+     <td>
+      <a target="_blank" href="https://nextpy.org/">
+        <img src="https://res.cloudinary.com/doojikdqd/image/upload/v1703429509/github_nextpy/chart_2x_eh0q9x.png" style="max-height:150px; width:auto; display:block;">
+      </a>
+    </td>
+     <td>
+      <a target="_blank" href="https://nextpy.org/">
+        <img src="https://res.cloudinary.com/doojikdqd/image/upload/v1703429509/github_nextpy/chat_app_2x_cmsaht.png" style="max-height:150px; width:auto; display:block;">
+      </a>
+    </td>
+     <td>
+      <a target="_blank" href="https://nextpy.org/">
+        <img src="https://res.cloudinary.com/doojikdqd/image/upload/v1703429509/github_nextpy/crud_2x_bcxiyp.png" style="max-height:150px; width:auto; display:block;">
+      </a>
+    </td>
+     <td>
+      <a target="_blank" href="https://nextpy.org/">
+        <img src="https://res.cloudinary.com/doojikdqd/image/upload/v1703429508/github_nextpy/login_2x_hgjpo2.png" style="max-height:150px; width:auto; display:block;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Powerful tables</td>
+    <td>Portfolio Sites</td>
+    <td>Interactive Charts</td>
+    <td>AI chat</td>
+    <td>Crud Apps</td>
+    <td>Onboarding</td>
+  </tr>
+</table>
+
+### Setting Up the Template
+1. Copy the template files to your local folder.
+2. Install necessary dependencies with **`pip install -r requirements.txt`**.
+3. Initialize your app by running **`nextpy init`**.
+4. Launch the app with **`nextpy run`** to see it in action. To check the site visit `localhost:3000`
+
+
+# ➖ or ➖ 
+---
+
+### 🤣 Building a Joke Generator App (5 mins)
+
+Edit `myapp/myapp.py` to create your app.
+
+#### 1. Import Libraries
+
+```python
+import nextpy as xt
+import pyjokes
+```
+
+Start by importing `nextpy` for development and `pyjokes` for random jokes.
+
+#### 2. Set Up the App State
+
+```python
+class State(xt.State):
+    joke: str = "Click the button to get a joke!"
+
+    def generate_joke(self):
+        self.joke = pyjokes.get_joke()
+```
+
+Create a `State` class with a `joke` variable. Use `generate_joke` to fetch new jokes.
+
+#### 3. Design the Main Page
+
+```python
+def index():
+    layout = xt.vstack(
+        xt.text(State.joke, font_size="2em"),
+        xt.button("Generate Joke", on_click=State.generate_joke),
+    )
+    return layout
+```
+
+The `index` function arranges a joke display and a button. `vstack` is used to stack components vertically, while `hstack` is used to stack components horizontally.
+
+#### 4. Optional Styling
+```md
+def index():
+    layout = xt.vstack(
+        xt.text(State.joke, font_size="2em"),
+        xt.button("Generate Joke", on_click=State.generate_joke),
+
+        spacing="1em",
+        align_items="center",
+        justify_content="center",
+        height="100vh",
+   )
+    return layout
+```
+The `spacing` attribute adds space between the `text` and `button` elements, while `align_items` and `justify_content` ensure that these elements are centered. The stack's `height` is set to 100% of the Viewport Height (`100vh`), which allows the vertical stack to fill the entire height of your screen.
+
+#### 5. Setup the app
+
+```python
+app = xt.App()
+app.add_page(index)
+
+```
+
+Set up the app, add the main page. To view the frontend, navigate to `localhost:3000`. 
+
+
+![-----------------------------------------------------](https://res.cloudinary.com/dzznkbdrb/image/upload/v1694798498/divider_1_rej288.gif)
+
+
+## 🛣️ Project Roadmap
+
+**🌟 Upcoming Features**
+
+1. **Frontend Magic Components**
+   - 🪄 **PDF Resume to Personal Site**: Create a "magic component" that converts PDF resumes into customizable, full-stack personal websites.
+
+2. **Backend Modules**
+   - 🔐 **User Authentication and Email Integration**: Add modules for robust login functionality and email subscription.
+   - 🛒 **Modules for Blogging and E-commerce**: Add backend modules to facilitate blog management and e-commerce webapps.
+
+3. **Build and Performance Optimization**
+   - 🔧 **Compiler Enhancement with Rust or mojo**: Transitioning our existing compiler to Rust or mojo to achieve faster performance.
+
+4. **Generative AI**
+   - 🐍 **Nextpy LLM**: Build the best Python LLM.
+   - 💬 **End-User Copilot Feature**: A chat-based copilot for app users that lets them interact with your product and do things by text. We have all the modules ready for this, we just need to simplify the abstraction. Just set `copilot = True` in xtconfig and you’re should be good to go.
+
+## 🤗 Get Involved
+
+**We welcome contributors of all skill levels! 🤝**
+
+Want to make a difference? Start by forking our repository and sending in your pull requests. We're excited to welcome you to our community. Together, we'll craft something truly remarkable! ✨
+
+![-----------------------------------------------------](https://res.cloudinary.com/dzznkbdrb/image/upload/v1694798498/divider_1_rej288.gif)
+
+
 
 [![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)

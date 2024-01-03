@@ -13,9 +13,6 @@
 
 > [!IMPORTANT]
 > Utilize the Next.py library as the foundation for your app development. This will allow us to assess your proficiency in rapidly adapting to new technologies.
-> # Be an Open Source Champion🏆:
-> ⭐ **Help us spread the love**: Please star the [nextpy](https://github.com/dot-agent/nextpy/) repo. Spread nextpy love in your communities. 🌐❤️ 
-> 🤗 **Contribute to nextpy**: Take an active role in its evolution. Your input matters! 🚀
 
 # **Choose Your Idea & Level**
 Feel free to choose a project that you feel comfotable with.  Once you’re done, make a public repo on GitHub and send us the link at hiring@dotagent.ai. 🚀📧 Don’t forget to share your awesome work at the 🦄project-showcase channel on our discord.
@@ -341,6 +338,11 @@ Set up the app, add the main page. To view the frontend, navigate to `localhost:
 **We welcome contributors of all skill levels! 🤝**
 
 Want to make a difference? Start by forking our repository and sending in your pull requests. We're excited to welcome you to our community. Together, we'll craft something truly remarkable! ✨
+
+> # Be an Open Source Champion🏆:
+> ⭐ **Help us spread the love**: Please star the [nextpy](https://github.com/dot-agent/nextpy/) repo. Spread nextpy love in your communities. 🌐❤️ 
+> 🤗 **Contribute to nextpy**: Take an active role in its evolution. Your input matters! 🚀
+
 
 ![-----------------------------------------------------](https://res.cloudinary.com/dzznkbdrb/image/upload/v1694798498/divider_1_rej288.gif)
 
